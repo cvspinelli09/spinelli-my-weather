@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ee2c20dd7f56709d4e358ee01abad54c",
+    "revision": "ec9dc8533c45b29e9b6dc05d7661930f",
     "url": "/spinelli-my-weather/index.html"
   },
   {
-    "revision": "47232884d0a8655df170",
-    "url": "/spinelli-my-weather/static/css/main.f3cdc0a5.chunk.css"
+    "revision": "959155d7fa5f0b201cbb",
+    "url": "/spinelli-my-weather/static/css/main.2c710dd2.chunk.css"
   },
   {
     "revision": "364a6052a3216c98bbc6",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spinelli-my-weather/static/js/2.12b29d24.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "47232884d0a8655df170",
+    "revision": "959155d7fa5f0b201cbb",
     "url": "/spinelli-my-weather/static/js/main.9141fda4.chunk.js"
   },
   {
