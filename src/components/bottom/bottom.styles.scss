@@ -1,0 +1,54 @@
+.bottom-container {
+//  border: 1px solid red;
+ width: 100%;
+ margin-top: 15px;
+ margin-left: 10px;
+ display: flex;
+ flex-direction: row;
+
+ @media screen and (max-width:450px) {
+     margin-left: 0;
+     margin-top: 2px;
+ }
+
+    .forecast-container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        // border: 3px solid yellow;
+    }
+    .day {
+        @media screen and (max-width:450px) {
+            font-size: 0.9em;
+        }
+    }
+    .icon {
+        @media screen and (max-width:450px) {
+            font-size: 0.9em;
+        }
+    }
+    .min-max {
+        // border: 2px solid green;
+        display: flex;
+        flex-direction: row;
+        .max {
+            color: rgb(85, 84, 84);
+            font-size: 1.2em;
+            padding-right: 10px;
+
+            @media screen and (max-width:450px) {
+                font-size: 1em;
+            }
+        }
+        .min {
+            color: rgb(141, 138, 138);
+            font-size: 1.05em;
+
+            @media screen and (max-width:450px) {
+                font-size: 0.9em;
+            }
+        }
+    }
+}
