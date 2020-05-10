@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/cvspinelli09/spinelli-my-website/static/css/main.f3cdc0a5.chunk.css",
-    "main.js": "/cvspinelli09/spinelli-my-website/static/js/main.d5ea9d9c.chunk.js",
-    "main.js.map": "/cvspinelli09/spinelli-my-website/static/js/main.d5ea9d9c.chunk.js.map",
-    "runtime-main.js": "/cvspinelli09/spinelli-my-website/static/js/runtime-main.7b5ba43c.js",
-    "runtime-main.js.map": "/cvspinelli09/spinelli-my-website/static/js/runtime-main.7b5ba43c.js.map",
-    "static/js/2.12b29d24.chunk.js": "/cvspinelli09/spinelli-my-website/static/js/2.12b29d24.chunk.js",
-    "static/js/2.12b29d24.chunk.js.map": "/cvspinelli09/spinelli-my-website/static/js/2.12b29d24.chunk.js.map",
-    "index.html": "/cvspinelli09/spinelli-my-website/index.html",
-    "precache-manifest.4ac8961d1e29d58f77a2e9125ea50e41.js": "/cvspinelli09/spinelli-my-website/precache-manifest.4ac8961d1e29d58f77a2e9125ea50e41.js",
-    "service-worker.js": "/cvspinelli09/spinelli-my-website/service-worker.js",
-    "static/css/main.f3cdc0a5.chunk.css.map": "/cvspinelli09/spinelli-my-website/static/css/main.f3cdc0a5.chunk.css.map",
-    "static/js/2.12b29d24.chunk.js.LICENSE.txt": "/cvspinelli09/spinelli-my-website/static/js/2.12b29d24.chunk.js.LICENSE.txt",
-    "static/media/LogoImg_small.f20cffd8.svg": "/cvspinelli09/spinelli-my-website/static/media/LogoImg_small.f20cffd8.svg"
+    "main.css": "/spinelli-my-website/static/css/main.f3cdc0a5.chunk.css",
+    "main.js": "/spinelli-my-website/static/js/main.968f5e32.chunk.js",
+    "main.js.map": "/spinelli-my-website/static/js/main.968f5e32.chunk.js.map",
+    "runtime-main.js": "/spinelli-my-website/static/js/runtime-main.13397a0d.js",
+    "runtime-main.js.map": "/spinelli-my-website/static/js/runtime-main.13397a0d.js.map",
+    "static/js/2.12b29d24.chunk.js": "/spinelli-my-website/static/js/2.12b29d24.chunk.js",
+    "static/js/2.12b29d24.chunk.js.map": "/spinelli-my-website/static/js/2.12b29d24.chunk.js.map",
+    "index.html": "/spinelli-my-website/index.html",
+    "precache-manifest.aa8ee316405c06e3d2d08b7c39c76b7b.js": "/spinelli-my-website/precache-manifest.aa8ee316405c06e3d2d08b7c39c76b7b.js",
+    "service-worker.js": "/spinelli-my-website/service-worker.js",
+    "static/css/main.f3cdc0a5.chunk.css.map": "/spinelli-my-website/static/css/main.f3cdc0a5.chunk.css.map",
+    "static/js/2.12b29d24.chunk.js.LICENSE.txt": "/spinelli-my-website/static/js/2.12b29d24.chunk.js.LICENSE.txt",
+    "static/media/LogoImg_small.f20cffd8.svg": "/spinelli-my-website/static/media/LogoImg_small.f20cffd8.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7b5ba43c.js",
+    "static/js/runtime-main.13397a0d.js",
     "static/js/2.12b29d24.chunk.js",
     "static/css/main.f3cdc0a5.chunk.css",
-    "static/js/main.d5ea9d9c.chunk.js"
+    "static/js/main.968f5e32.chunk.js"
   ]
 }
