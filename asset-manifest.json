@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/spinelli-my-website/static/css/main.f3cdc0a5.chunk.css",
-    "main.js": "/spinelli-my-website/static/js/main.968f5e32.chunk.js",
-    "main.js.map": "/spinelli-my-website/static/js/main.968f5e32.chunk.js.map",
-    "runtime-main.js": "/spinelli-my-website/static/js/runtime-main.13397a0d.js",
-    "runtime-main.js.map": "/spinelli-my-website/static/js/runtime-main.13397a0d.js.map",
-    "static/js/2.12b29d24.chunk.js": "/spinelli-my-website/static/js/2.12b29d24.chunk.js",
-    "static/js/2.12b29d24.chunk.js.map": "/spinelli-my-website/static/js/2.12b29d24.chunk.js.map",
-    "index.html": "/spinelli-my-website/index.html",
-    "precache-manifest.aa8ee316405c06e3d2d08b7c39c76b7b.js": "/spinelli-my-website/precache-manifest.aa8ee316405c06e3d2d08b7c39c76b7b.js",
-    "service-worker.js": "/spinelli-my-website/service-worker.js",
-    "static/css/main.f3cdc0a5.chunk.css.map": "/spinelli-my-website/static/css/main.f3cdc0a5.chunk.css.map",
-    "static/js/2.12b29d24.chunk.js.LICENSE.txt": "/spinelli-my-website/static/js/2.12b29d24.chunk.js.LICENSE.txt",
-    "static/media/LogoImg_small.f20cffd8.svg": "/spinelli-my-website/static/media/LogoImg_small.f20cffd8.svg"
+    "main.css": "/spinelli-my-weather/static/css/main.f3cdc0a5.chunk.css",
+    "main.js": "/spinelli-my-weather/static/js/main.9141fda4.chunk.js",
+    "main.js.map": "/spinelli-my-weather/static/js/main.9141fda4.chunk.js.map",
+    "runtime-main.js": "/spinelli-my-weather/static/js/runtime-main.acee63f5.js",
+    "runtime-main.js.map": "/spinelli-my-weather/static/js/runtime-main.acee63f5.js.map",
+    "static/js/2.12b29d24.chunk.js": "/spinelli-my-weather/static/js/2.12b29d24.chunk.js",
+    "static/js/2.12b29d24.chunk.js.map": "/spinelli-my-weather/static/js/2.12b29d24.chunk.js.map",
+    "index.html": "/spinelli-my-weather/index.html",
+    "precache-manifest.69452d1754e7ca28383f62fe42740622.js": "/spinelli-my-weather/precache-manifest.69452d1754e7ca28383f62fe42740622.js",
+    "service-worker.js": "/spinelli-my-weather/service-worker.js",
+    "static/css/main.f3cdc0a5.chunk.css.map": "/spinelli-my-weather/static/css/main.f3cdc0a5.chunk.css.map",
+    "static/js/2.12b29d24.chunk.js.LICENSE.txt": "/spinelli-my-weather/static/js/2.12b29d24.chunk.js.LICENSE.txt",
+    "static/media/LogoImg_small.f20cffd8.svg": "/spinelli-my-weather/static/media/LogoImg_small.f20cffd8.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.13397a0d.js",
+    "static/js/runtime-main.acee63f5.js",
     "static/js/2.12b29d24.chunk.js",
     "static/css/main.f3cdc0a5.chunk.css",
-    "static/js/main.968f5e32.chunk.js"
+    "static/js/main.9141fda4.chunk.js"
   ]
 }
