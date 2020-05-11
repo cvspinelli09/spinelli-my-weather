@@ -24,7 +24,7 @@ class MiddleWeatherSection extends React.Component {
           </div>
         </div>
         <div className="data-container">
-          <div>Precipitation: {precipitation}%</div>
+          <div>Precipitation: {precipitation} mm</div>
           <div>Humidity: {humidity}%</div>
           <div>Wind: {wind} mph</div>
         </div>

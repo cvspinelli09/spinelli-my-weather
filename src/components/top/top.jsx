@@ -34,7 +34,7 @@ class TopSection extends React.Component {
       const { isSelectLocationOpen } = this.state;
 
       return (
-        <div className="Top-section-container">
+        <div>
           <TopWeatherSection {...this.props} />
           <div className="button">
             <Manager>
