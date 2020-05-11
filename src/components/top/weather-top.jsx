@@ -24,8 +24,8 @@ class TopWeatherSection extends React.Component {
           <div className="top-content">{localTime}</div>
           <div className="top-content-condition">{weatherType}</div>
         </div>
-        <div className="logo">
-          <div >
+        <div >
+          <div className="logo">
             <Logo className="logo-container"/>
             <div className="link-back">
               Powered by{" "}
