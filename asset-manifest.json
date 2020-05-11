@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/spinelli-my-weather/static/css/main.2c710dd2.chunk.css",
-    "main.js": "/spinelli-my-weather/static/js/main.9141fda4.chunk.js",
-    "main.js.map": "/spinelli-my-weather/static/js/main.9141fda4.chunk.js.map",
+    "main.css": "/spinelli-my-weather/static/css/main.07cb5796.chunk.css",
+    "main.js": "/spinelli-my-weather/static/js/main.46b43893.chunk.js",
+    "main.js.map": "/spinelli-my-weather/static/js/main.46b43893.chunk.js.map",
     "runtime-main.js": "/spinelli-my-weather/static/js/runtime-main.acee63f5.js",
     "runtime-main.js.map": "/spinelli-my-weather/static/js/runtime-main.acee63f5.js.map",
     "static/js/2.12b29d24.chunk.js": "/spinelli-my-weather/static/js/2.12b29d24.chunk.js",
     "static/js/2.12b29d24.chunk.js.map": "/spinelli-my-weather/static/js/2.12b29d24.chunk.js.map",
     "index.html": "/spinelli-my-weather/index.html",
-    "precache-manifest.7f1466730302689e7c79550814a152e3.js": "/spinelli-my-weather/precache-manifest.7f1466730302689e7c79550814a152e3.js",
+    "precache-manifest.1bb86c16cbb9e77a6e41d9e6ee822712.js": "/spinelli-my-weather/precache-manifest.1bb86c16cbb9e77a6e41d9e6ee822712.js",
     "service-worker.js": "/spinelli-my-weather/service-worker.js",
-    "static/css/main.2c710dd2.chunk.css.map": "/spinelli-my-weather/static/css/main.2c710dd2.chunk.css.map",
+    "static/css/main.07cb5796.chunk.css.map": "/spinelli-my-weather/static/css/main.07cb5796.chunk.css.map",
     "static/js/2.12b29d24.chunk.js.LICENSE.txt": "/spinelli-my-weather/static/js/2.12b29d24.chunk.js.LICENSE.txt",
     "static/media/LogoImg_small.f20cffd8.svg": "/spinelli-my-weather/static/media/LogoImg_small.f20cffd8.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.acee63f5.js",
     "static/js/2.12b29d24.chunk.js",
-    "static/css/main.2c710dd2.chunk.css",
-    "static/js/main.9141fda4.chunk.js"
+    "static/css/main.07cb5796.chunk.css",
+    "static/js/main.46b43893.chunk.js"
   ]
 }
