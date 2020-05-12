@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/spinelli-my-weather/static/css/main.154b3d68.chunk.css",
+    "main.css": "/spinelli-my-weather/static/css/main.ab520130.chunk.css",
     "main.js": "/spinelli-my-weather/static/js/main.c86b91f3.chunk.js",
     "main.js.map": "/spinelli-my-weather/static/js/main.c86b91f3.chunk.js.map",
     "runtime-main.js": "/spinelli-my-weather/static/js/runtime-main.acee63f5.js",
@@ -8,16 +8,16 @@
     "static/js/2.12b29d24.chunk.js": "/spinelli-my-weather/static/js/2.12b29d24.chunk.js",
     "static/js/2.12b29d24.chunk.js.map": "/spinelli-my-weather/static/js/2.12b29d24.chunk.js.map",
     "index.html": "/spinelli-my-weather/index.html",
-    "precache-manifest.f6f60a1837083fb8c072424d3b72c491.js": "/spinelli-my-weather/precache-manifest.f6f60a1837083fb8c072424d3b72c491.js",
+    "precache-manifest.c0cf0c552eb05674bfc5bbaf9dd1457d.js": "/spinelli-my-weather/precache-manifest.c0cf0c552eb05674bfc5bbaf9dd1457d.js",
     "service-worker.js": "/spinelli-my-weather/service-worker.js",
-    "static/css/main.154b3d68.chunk.css.map": "/spinelli-my-weather/static/css/main.154b3d68.chunk.css.map",
+    "static/css/main.ab520130.chunk.css.map": "/spinelli-my-weather/static/css/main.ab520130.chunk.css.map",
     "static/js/2.12b29d24.chunk.js.LICENSE.txt": "/spinelli-my-weather/static/js/2.12b29d24.chunk.js.LICENSE.txt",
     "static/media/LogoImg_small.f20cffd8.svg": "/spinelli-my-weather/static/media/LogoImg_small.f20cffd8.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.acee63f5.js",
     "static/js/2.12b29d24.chunk.js",
-    "static/css/main.154b3d68.chunk.css",
+    "static/css/main.ab520130.chunk.css",
     "static/js/main.c86b91f3.chunk.js"
   ]
 }
