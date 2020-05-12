@@ -38,6 +38,8 @@
 
     @media screen and (max-width: 450px) {
         font-size: 0.95em;
+        font-weight: 400;
+        
     }
 }
 
@@ -49,6 +51,7 @@
 
     @media screen and (max-width: 450px) {
         font-size: 0.95em;
+        font-weight: 400;
     }
 }
 
@@ -63,13 +66,17 @@
         max-width: 130px;
         flex-direction: column;
         align-items: flex-end;
-        border: 1px solid green;
+        // border: 1px solid green;
         padding-right: 2px;
     }
 }
 .logo-container {
     width: fit-content;
-    border: 1px solid blue;
+    @media screen and (max-width:450px) {
+        // border: 1px solid blue;
+        width: 130px;
+    }
+    
     
 }
 .link-back {
@@ -81,7 +88,7 @@
       font-size: 0.45em;
       justify-content: flex-end;
       align-items: flex-end;
-      border: 1px solid red;
+    //   border: 1px solid red;
   }
 }
 
