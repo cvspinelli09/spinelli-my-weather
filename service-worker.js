@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/spinelli-my-weather/precache-manifest.0f664a4a247131101315b4c59378c041.js"
+  "/spinelli-my-weather/precache-manifest.c85aa83893a2fa2f3abfc729430febaf.js"
 );
 
 self.addEventListener('message', (event) => {
