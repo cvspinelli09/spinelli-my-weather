@@ -12,6 +12,12 @@
     padding-left: 15px;
     padding-top: 20px;
     padding-bottom: 10px;
+
+    @media screen and (max-width: 450px) {
+        width: 50%;
+        border: 1px solid red;
+        padding-top: 10px;
+    }
 }
 
 .title {
