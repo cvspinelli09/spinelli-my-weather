@@ -2,18 +2,7 @@
   box-sizing: border-box;
 }
 
-.link-back {
-  margin-top: 5px;
-  font-size: 0.65em;
-  display: flex;
-  justify-content: flex-end;
 
-  @media screen and (max-width: 450px) {
-      font-size: 0.45em;
-      justify-content: flex-start;
-      align-items: flex-start;
-  }
-}
 
 html,
 body,
